@@ -29,3 +29,5 @@ applications:
 	disk_quota: 256M
 	instances: 1
 	credentialID: yahata@bbtower.co.jp
+
+print("Test2")

@@ -5,3 +5,4 @@ applications:
   memory: 64M
   disk_quota: 256M
   instances: 1
+  credential_id: yahata@bbtower.co.jp

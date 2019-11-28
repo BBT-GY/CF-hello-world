@@ -22,12 +22,3 @@ def mainmenu():
 
 if __name__ == "__main__":
 	app.run(debug=False,host='0.0.0.0', port=int(os.getenv('PORT', '5000')))
-	
-applications:
-	name: piperhw123
-	memory: 64M
-	disk_quota: 256M
-	instances: 1
-	credentialID: yahata@bbtower.co.jp
-
-print("Test2")
